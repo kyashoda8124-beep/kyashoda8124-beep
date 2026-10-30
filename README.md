@@ -1,15 +1,16 @@
 # Hi there, I'm K Yashoda! 👋
 
-### 💻 Computer Science Engineering Student | Aspiring Software Developer
+### 💻 Computer Science Engineering Student | Aspiring Web Developer
 
-I'm a Computer Science Engineering student passionate about software development, programming and building practical solutions to real-world problems.
+I'm a Computer Science Engineering student passionate about Web Development and Software Development. I enjoy creating responsive websites, exploring new technologies and building practical solutions to real-world problems.
 
-* 🔭 Currently working on software development and Python projects.
-* 🌱 Learning Data Structures & Algorithms, SQL and Machine Learning.
-* 👯 Interested in collaborating on Python, Web Development and Open-Source Projects.
-* 💬 Ask me about Python, C, HTML, CSS, SQL and Computer Networks.
-* 🎯 Career Goal: Trainee Software Engineer / Software Developer.
-* ⚡ Fun fact: I enjoy turning creative ideas into practical software projects.
+* 🔭 Currently working on Web Development and Python projects.
+* 🌱 Learning HTML, CSS, JavaScript, Python and Data Structures & Algorithms.
+* 👯 Interested in collaborating on Web Development and Open-Source Projects.
+* 💬 Ask me about HTML, CSS, JavaScript, Python, SQL and Computer Networks.
+* 🎯 Career Goal: Aspiring Frontend / Web Developer.
+* ⚡ Fun fact: I love turning creative ideas into interactive websites and useful applications.
+
 
 ---
 
